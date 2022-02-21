@@ -1,5 +1,4 @@
 <?php
-include('koneksi.php');
 require_once("dompdf/autoload.inc.php");
 use Dompdf\Dompdf;
 

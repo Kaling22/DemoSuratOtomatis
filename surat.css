@@ -77,6 +77,12 @@ figcaption {
 
 html,
 body {
+    height: 842px;
+    width: 595px;
+    
+    margin-left: auto;
+    margin-right: auto;
+    
     font-family: 'poppins', 'open-sans';
     font-weight: 400;
     font-size: 16px;
@@ -126,8 +132,6 @@ section.header .date-letter h3 {
     font-size: 12px;
     line-height: 14px;
     /* identical to box height */
-
-
     color: #000000;
 }
 
@@ -160,8 +164,6 @@ section.text-letter h3 {
     font-size: 12px;
     line-height: 14px;
     /* identical to box height */
-
-
     color: #000000;
 }
 
